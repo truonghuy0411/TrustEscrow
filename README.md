@@ -32,4 +32,6 @@ TrustEscrow mitigates this vulnerability by acting as an incorruptible, decentra
 # Profile
 * **Name:** Phan Van Truong Huy 
 * **Orientation:** First-year undergraduate student.
+* **University:** University of Science - VNUHCM
+
 .
