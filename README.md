@@ -16,7 +16,8 @@ TrustEscrow mitigates this vulnerability by acting as an incorruptible, decentra
 # Contract
 **Contract Link:** [https://stellar.expert/explorer/testnet/contract/CDGSAGSPAFROF6JX3Q474J3UDE4CNDBRBKHN6NU3ONYM2IASFRSZX4WD]
 
-**Contract's screenshot:**
+**Contract's screenshot:**<img width="3179" height="1664" alt="image" src="https://github.com/user-attachments/assets/a4ad8883-2117-4f39-a186-2d0a308a9251" />
+
 
 
 
