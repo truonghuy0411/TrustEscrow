@@ -29,5 +29,4 @@ TrustEscrow mitigates this vulnerability by acting as an incorruptible, decentra
 # Profile
 * **Name:** Phan Van Truong Huy 
 * **Orientation:** First-year undergraduate student.
-* **Skills:** Solid programmatic foundation in Java and C++. Highly focused on core computer science principles, with a demonstrated ability to architect fundamental data structures manually without over-reliance on standard libraries. Strictly adheres to clean code conventions and standardized naming protocols. 
-* **Objective:** Currently developing practical, decentralized applications and scalable server architectures to secure a backend engineering internship during my sophomore year.
+.
